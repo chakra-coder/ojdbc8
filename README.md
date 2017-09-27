@@ -28,7 +28,7 @@ mvn deploy -Pdeploy -Dmaven.main.skip=true -Dmaven.install.skip=true  (configure
 
 # License
 
-[![license](https://img.shields.io/github/license/NoraUi/ojdbc8.svg)](https://github.com/NoraUi/ojdbc8/blob/master/LICENSE) See LICENSE for details
+[![license](https://img.shields.io/github/license/NoraUi/ojdbc8.svg)](https://github.com/NoraUi/ojdbc8/blob/master/LICENSE) + Oracle Technology Network License Agreement, See LICENSE for details
 
 # Contributors
 
