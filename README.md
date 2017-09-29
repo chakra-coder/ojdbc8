@@ -1,6 +1,8 @@
 # ojdbc8
 Oracle JDBC Driver for java oracle.jdbc.driver.OracleDriver ojdbc8
 
+(THIS ARTIFACT IS DEPRECATED, please use a official OTN in your Maven project. Notice here: https://github.com/sgrillon14/MavenSampleOracleJdbc)
+
 # How deploy to sonatype
 mvn clean install
 
