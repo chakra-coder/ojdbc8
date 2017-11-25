@@ -16,18 +16,6 @@ cp .m2\repository\com\oracle\jdbc\ojdbc8\12.2.0.1\ojdbc8-12.2.0.1\META-INF targe
 
 mvn deploy -Pdeploy -Dmaven.main.skip=true -Dmaven.install.skip=true  (configure your Maven setting.xml)
 
-# How use
-
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.noraui/ojdbc8/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.noraui/ojdbc8)
-
-```xml
-<dependency>
-    <groupId>com.github.noraui</groupId>
-    <artifactId>ojdbc8</artifactId>
-    <version>12.2.0.1</version>
-</dependency>
-```
-
 # License
 
 [![license](https://img.shields.io/github/license/NoraUi/ojdbc8.svg)](https://github.com/NoraUi/ojdbc8/blob/master/LICENSE) + Oracle Technology Network License Agreement, See LICENSE for details
